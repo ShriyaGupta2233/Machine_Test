@@ -1,0 +1,418 @@
+.contanier{
+    width: 1440px;
+    height: 796px;
+    top: -1515px;
+    left: 2752px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.text1{
+    width: 1005px;
+    height: 60px;
+    margin-top: 99px;
+    margin-left: 211px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+}
+.text1 span{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}
+.text2{
+    width: 700px;
+    height: 52px;
+    top: 174px;
+    margin-left: 318px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+.text3{
+    width: 218px;
+    height: 45px;
+    margin-top: 30px;
+    left: 53px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.text4{
+    width: 200px;
+    height: 45px;
+    margin-top: -45px;
+    margin-left: 280px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.text5{
+    width: 180px;
+    height: 45px;
+    margin-top: -45px;
+    margin-left: 550px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.text6{
+    width: 150px;
+    height: 45px;
+    margin-top: -45px;
+    margin-left: 780px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.text7{
+    width: 180px;
+    height: 45px;
+    margin-top: -45px;
+    margin-left: 950px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.text8{
+    width: 150px;
+    height: 45px;
+    margin-top: -45px;
+    margin-left: 1160px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1); ;
+}
+.span2{
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: black;
+}
+.Rectangle{
+    /* border: 1px solid black; */
+    width: 1329px;
+    height: 254px;
+    margin-top: 130px;
+    margin-left: 30px;
+    gap: 0px;
+    border-radius: 13px 13px 13px 13px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 3px 4px 4px 8px rgba(244, 244, 244, 1);
+}
+.one{
+    /* border: 1px solid black; */
+    width: 123.7px;
+    height: 102.24px;
+    position: relative;
+    top: -60px;
+    margin-left: 30px;
+    border-radius: 50%;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(244, 244, 244, 1);
+    box-shadow: 4px 4px 0px 0px rgba(101, 69, 31, 0.27);
+}
+.elipse1{
+    width: 98.08px;
+    height: 77.15px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+    border-radius: 50%;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(180deg, rgba(101, 69, 31, 0.45) 0%, rgba(101, 69, 31, 0.45) 100%);
+}
+.elipse2{
+    width: 68.92px;
+    height: 55.77px;
+    position: relative;
+    top: 12px;
+    left: 15px;
+    border-radius: 50%;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(101, 69, 31, 1);
+    font-family: Roboto;
+}
+.elipse2 span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 14px;
+    left: 28px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+.Rectangle1{
+    width: 120px;
+    position: relative;
+    top: -150px;
+    left: 280px;
+    border-radius: 50%;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.two{
+    width: 98px;
+    height: 77.15px;
+    top:410.08px;
+    margin-left: 15px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.45);
+}
+.two span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}   
+.Rectangle2{
+    width: 120px;
+    position: relative;
+    top: -230px;
+    left: 530px;
+    border-radius: 50%;    
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.three{
+    width: 98px;
+    height: 77.15px;
+    top: 410.08px;
+    margin-left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.45);
+}
+.three span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}   
+.Rectangle3{
+    width: 120px;
+    position: relative;
+    top: -300px;
+    left: 765px;
+    border-radius: 50%;    
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.four{
+    width: 98px;
+    height: 77.15px;
+    top: 410.08px;
+    margin-left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.45);
+}
+.four span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}   
+.Rectangle4{
+    width: 120px;
+    position: relative;
+    top: -380px;
+    left: 975px;
+    border-radius: 50%;    
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.five{
+    width: 98px;
+    height: 77.15px;
+    top: 410.08px;
+    margin-left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.45);
+}
+.five span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}   
+.Rectangle5{
+    width: 120px;
+    position: relative;
+    top: -460px;
+    margin-left: 1150px;
+    border-radius: 50%;    
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(246, 246, 246, 1);
+}
+.six{
+    width: 98px;
+    height: 77.15px;
+    top: 410.08px;
+    margin-left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.45);
+}
+.six span{
+    width: 18px;
+    height: 26px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}
+.text9{
+    width: 675px;
+    height: 33px;
+    margin-top: -350px;
+    margin-left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(101, 69, 31, 1);
+}
+.text9 span{
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    color: black;
+}
+.text10{
+    width: 804px;
+    height: 52px;
+    top: 605px;
+    margin-left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.text10 span{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+}
+   
